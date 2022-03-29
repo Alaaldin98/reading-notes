@@ -9,7 +9,7 @@
 | File Manipulation / System.IO  |  [File Manipulation / System.IO](FileManipulation&SystemIO.md)  |
 | Object Oriented Principles  |  [Object Oriented Principles](OOP.md)  |
 | Linked Lists  |  [Linked Lists](LinkedLists.md)  |
-
+| Interfaces  |  [Interfaces](Interfaces.md)  |
 
 
 

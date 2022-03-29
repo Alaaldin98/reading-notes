@@ -7,7 +7,7 @@ Big O’s role in algorithm efficiency is to describe the Worst Case of efficiency
 4. Best Case, Worst Case, and Average Case
 
 ## Linked Lists
-
+git config pull.rebase false # marge
 A Linked List is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
 
 There are two types of Linked List - Singly and Doubly. We will be implementing a Singly Linked List in this implementation.
