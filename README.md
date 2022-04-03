@@ -10,6 +10,7 @@
 | Object Oriented Principles  |  [Object Oriented Principles](OOP.md)  |
 | Linked Lists  |  [Linked Lists](LinkedLists.md)  |
 | Interfaces  |  [Interfaces](Interfaces.md)  |
+| Collections & Enums  |  [Collections & Enums](C&E.md)  |
 
 
 
