@@ -11,6 +11,7 @@
 | Linked Lists  |  [Linked Lists](LinkedLists.md)  |
 | Interfaces  |  [Interfaces](Interfaces.md)  |
 | Collections & Enums  |  [Collections & Enums](C&E.md)  |
+| LINQ & Delegates  |  [LINQ & Delegates](L&D.md)  |
 
 
 
