@@ -1,5 +1,5 @@
 ### Big O: Analysis of Algorithm Efficiency
-Big O’s role in algorithm efficiency is to describe the Worst Case of efficiency an algorithm can have in performing it’s job. It specifically looks at the factors mentioned above, which we often refer to as Space and Time. In order to analyze these limiting factors, we should consider 4 Key Areas for analysis:
+Big Oâ€™s role in algorithm efficiency is to describe the Worst Case of efficiency an algorithm can have in performing itâ€™s job. It specifically looks at the factors mentioned above, which we often refer to as Space and Time. In order to analyze these limiting factors, we should consider 4 Key Areas for analysis:
 
 1. Input Size
 2. Units of Measurement
@@ -22,4 +22,19 @@ There are two types of Linked List - Singly and Doubly. We will be implementing 
 6. Head - The Head is a reference of type Node to the first node in a linked list.
 7. Current - The Current is a reference of type Node to the node that is currently being looked at. When traversing, you create a new Current variable at the Head to guarantee you are starting from the beginning of the linked list.
 
+#### Traversal
+The best way to approach a traversal is through the use of a while() loop. This allows us to continually check that the Next node in the list is not null. If we accidentally end up trying to traverse on a node that is null, a NullReferenceException gets thrown and our program will crash/end.
 
+When traversing through a linked list, the Current variable will tell us where exactly in the linked list we are and will allow us to move/traverse forward until we hit the end.
+
+#### Adding a Node
+An example can be with adding a node to a linked list. If we want to add a node with an O(1) efficiency, we have to replace the current Head of the linked list with the new node, without losing the reference to the next node in the list.
+
+#### how to add a node to a linked list:
+1. Declare head pointer and make it as NULL.
+
+2. Create a new node with the given data. And make the new node => next as NULL. (Because the new node is going to be the last node.)
+
+3. If the head node is NULL (Empty Linked List), make the new node as the head.
+
+4. If the head node is not null, (Linked list already has some elements),find the last node. make the last node => next as the new node.
