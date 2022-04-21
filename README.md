@@ -16,6 +16,8 @@
 | Stacks and Queues  |  [Stacks and Queues](S&Q.md)  |
 | Introduction to Databases and ERDs  |  [Introduction](D&E.md)  |
 | Entity Framework and APIs  |  [Entity Framework and APIs](EFW&API.md)  |
+| ----  |  -----  |
+| Routing and Navigation Properties  |  [Routing and Navigation Properties](RANP.md)  |
 
 
 
