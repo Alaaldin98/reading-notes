@@ -18,6 +18,7 @@
 | Entity Framework and APIs  |  [Entity Framework and APIs](Notes/EFW&API.md)  |
 | Dependency Injection & Repository Design Pattern  |  [Dependency Injection & Repository Design Pattern Link](Notes/DIandRDP.md)  |
 | Routing and Navigation Properties  |  [Routing and Navigation Properties](Notes/RANP.md)  |
+| Tree  |  [Tree](Notes/Tree.md)  |
 
 
 
