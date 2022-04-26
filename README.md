@@ -19,6 +19,8 @@
 | Dependency Injection & Repository Design Pattern  |  [Dependency Injection & Repository Design Pattern Link](Notes/DIandRDP.md)  |
 | Routing and Navigation Properties  |  [Routing and Navigation Properties](Notes/RANP.md)  |
 | Tree  |  [Tree](Notes/Tree.md)  |
+| Data Transfer Objects  |  [Data Transfer Objects](Notes/L16.md)  |
+| Testing and Swagger and Deployment  |  [Testing and Swagger and Deployment](Notes/L17.md)  |
 
 
 
