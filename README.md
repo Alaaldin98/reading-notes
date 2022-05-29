@@ -21,6 +21,7 @@
 | Tree  |  [Tree](Notes/Tree.md)  |
 | Data Transfer Objects  |  [Data Transfer Objects](Notes/L16.md)  |
 | Testing and Swagger and Deployment  |  [Testing and Swagger and Deployment](Notes/L17.md)  |
+| Roles, Claims and JWT Tokens  |  [Roles, Claims and JWT Tokens](Notes/Read19.md)  |
 
 
 
