@@ -23,6 +23,7 @@
 | Testing and Swagger and Deployment  |  [Testing and Swagger and Deployment](Notes/L17.md)  |
 | Roles, Claims and JWT Tokens  |  [Roles, Claims and JWT Tokens](Notes/Read19.md)  |
 | Intro to MVC  |  [Intro](Notes/Read26.md)  |
+| MVC Forms  |  [Forms](Notes/Read27.md)  |
 
 
 
