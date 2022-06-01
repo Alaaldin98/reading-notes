@@ -2,8 +2,8 @@
 
 | Topics  | Link |
 | ------------- | ------------- |
-| Exception Handling & Debugging  | [Exception&Debugging](Debugging.md)  |
-| Practice in the Terminal  |  [Terminal](index.md)  |
+| Exception Handling & Debugging  | [Exception&Debugging](Notes/Debugging.md)  |
+| Practice in the Terminal  |  [Terminal](Notes/index.md)  |
 | Unit Testing and Documentation  |  [Unit Testing](Notes/unittest.md)  |
 | SQL  |  [SQL](Notes/photo.md)  |
 | File Manipulation / System.IO  |  [File Manipulation / System.IO](Notes/FileManipulation&SystemIO.md)  |
@@ -24,6 +24,8 @@
 | Roles, Claims and JWT Tokens  |  [Roles, Claims and JWT Tokens](Notes/Read19.md)  |
 | Intro to MVC  |  [Intro](Notes/Read26.md)  |
 | MVC Forms  |  [Forms](Notes/Read27.md)  |
+| MVC / Cookies  |  [Cookies](Notes/Read28.md)  |
+| Implementation |  [Hash Tables](Notes/HashTable.md)  |
 
 
 
